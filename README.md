@@ -1,5 +1,5 @@
 # strands
-Nw blockchain concept
+Blockchain concept
 
 White Paper: Strands Project - A Hybrid Blockchain Ecosystem Integrated with AR Technology
 Abstract
