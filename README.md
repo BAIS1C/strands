@@ -1,0 +1,2 @@
+# strands
+NEw blockchain concept
